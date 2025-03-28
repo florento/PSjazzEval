@@ -1,6 +1,24 @@
 
 
+## corpus
+
+ 50 MusicXML transcriptions of complex tenor sax soli from the Charlie Parker Omnibook
+
+reference: 
+
+> Xavier Riley and Simon Dixon
+> Reconstructing the Charlie Parker Omnibook using an audio-to-score automatic transcription pipeline
+> SMC 2024
+
+- https://arxiv.org/abs/2405.16687
+- https://zenodo.org/records/14362769 (SMC paper)
+- https://zenodo.org/records/14628467 (data)
+
+
+
 ## commands 
+
+see subdirectories
 
 
 
