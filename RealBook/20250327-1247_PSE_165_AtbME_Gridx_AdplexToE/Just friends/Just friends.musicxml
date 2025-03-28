@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Just friends</work-title>
+  </work>
+  <movement-title>Just friends.musicxml</movement-title>
+  <identification>
+    <creator type="composer">Music21</creator>
+    <rights>cc-by 4.0</rights>
+    <encoding>
+      <encoding-date>2025-03-27</encoding-date>
+      <software>music21 v.9.5.0</software>
+      <software>MuseScore 4.4.4</software>
+      <supports attribute="new-system" element="print" type="yes" value="yes" />
+      <supports attribute="new-page" element="print" type="yes" value="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99911</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1696.94</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+    </appearance>
+    <music-font font-family="Leland" />
+    <word-font font-family="Edwin" font-size="10" />
+    <lyric-font font-family="Edwin" font-size="10" />
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="600.241935" default-y="1611.210312" font-size="22" justify="center" valign="top">Just friends</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="1114.7587" default-y="1511.210312" justify="right" valign="bottom">Klemmer / Lewis</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="600.241935" default-y="85.725171" font-size="9" justify="center" valign="bottom">cc-by 4.0</credit-words>
+  </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="I302cf8eeeebc2d1a7149ac5b35e42a91">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I302cf8eeeebc2d1a7149ac5b35e42a91">
+        <midi-channel>3</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="190.61">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>195.44</top-system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="39.76" enclosure="none" font-size="12" relative-y="10">(Swing Up)</words>
+        </direction-type>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words color="#808080" enclosure="none">est. global: D major</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>210</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="210" />
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="97.47" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 359 =========================-->
+    <measure implicit="no" number="359" width="173.84">
+      <barline location="left">
+        <repeat direction="forward" />
+      </barline>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="31.36" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 360 =========================-->
+    <measure implicit="no" number="360" width="254.4">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="105.64" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note default-x="154.63" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>down</stem>
+      </note>
+      <note default-x="203.61" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 361 =========================-->
+    <measure implicit="no" number="361" width="159.6">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">e minor (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note color="#FF0000" default-x="17.12" default-y="-40">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(E-)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--======================== Measure 362 =========================-->
+    <measure implicit="no" number="362" width="200.59">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">e minor (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="105.64" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 363 =========================-->
+    <measure implicit="no" number="363" width="249.88">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="74.39" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 364 =========================-->
+    <measure implicit="no" number="364" width="349.51">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="89.27" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="166.03" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note default-x="226.59" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+      </note>
+      <note default-x="287.15" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 365 =========================-->
+    <measure implicit="no" number="365" width="192.61">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note color="#FF0000" default-x="17.12" default-y="-45">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(D-)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--======================== Measure 366 =========================-->
+    <measure implicit="no" number="366" width="237.04">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="158.47" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 367 =========================-->
+    <measure implicit="no" number="367" width="317.37">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="75.35" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="154.06" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.46" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="274.18" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 368 =========================-->
+    <measure implicit="no" number="368" width="194.47">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="130.57" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 369 =========================-->
+    <measure implicit="no" number="369" width="254.52">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="91.21" default-y="-45">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="132.61" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="211.33" default-y="-45">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 370 =========================-->
+    <measure implicit="no" number="370" width="262.68">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="74.59" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="136.69" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="198.78" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 371 =========================-->
+    <measure implicit="no" number="371" width="281.16">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="75.35" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="177.36" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="start" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 372 =========================-->
+    <measure implicit="no" number="372" width="311.24">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="80.5" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="148.51" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note default-x="202.15" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+      </note>
+      <note default-x="255.8" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 373 =========================-->
+    <measure implicit="no" number="373" width="218.31">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="114.51" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="start" />
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 374 =========================-->
+    <measure implicit="no" number="374" width="218.31">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="114.51" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 375 =========================-->
+    <measure implicit="no" number="375" width="255.98">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="74.39" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 376 =========================-->
+    <measure implicit="no" number="376" width="321.61">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="131.72" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note default-x="194.42" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>down</stem>
+      </note>
+      <note default-x="257.11" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 377 =========================-->
+    <measure implicit="no" number="377" width="198.71">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">e minor (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note color="#FF0000" default-x="17.12" default-y="-40">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(E-)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--======================== Measure 378 =========================-->
+    <measure implicit="no" number="378" width="252.74">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">e minor (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="131.72" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 379 =========================-->
+    <measure implicit="no" number="379" width="249.88">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="74.39" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 380 =========================-->
+    <measure implicit="no" number="380" width="349.51">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="maj7">major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="89.27" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="166.03" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet bracket="yes" number="1" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>quarter</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note default-x="226.59" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+      </note>
+      <note default-x="287.15" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>6720</duration>
+        <type>quarter</type>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>quarter</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 381 =========================-->
+    <measure implicit="no" number="381" width="192.61">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note color="#FF0000" default-x="17.12" default-y="-45">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="start" />
+        <type>whole</type>
+        <accidental>sharp</accidental>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <tied type="start" />
+        </notations>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(D-)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--======================== Measure 382 =========================-->
+    <measure implicit="no" number="382" width="237.04">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-45">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="158.47" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 383 =========================-->
+    <measure implicit="no" number="383" width="317.37">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="75.35" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="154.06" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="195.46" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="274.18" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 384 =========================-->
+    <measure implicit="no" number="384" width="194.47">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="130.57" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 385 =========================-->
+    <measure implicit="no" number="385" width="254.52">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>B</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="91.21" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="132.61" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>up</stem>
+      </note>
+      <note default-x="211.33" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 386 =========================-->
+    <measure implicit="no" number="386" width="262.68">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="74.59" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="136.69" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="198.78" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 387 =========================-->
+    <measure implicit="no" number="387" width="308.97">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>134.29</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="75.35" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+      </note>
+      <note default-x="227.27" default-y="-40">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 388 =========================-->
+    <measure implicit="no" number="388" width="253.99">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="132.34" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 389 =========================-->
+    <measure implicit="no" number="389" width="195.03">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-30">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>40320</duration>
+        <type>whole</type>
+      </note>
+    </measure>
+    <!--======================== Measure 390 =========================-->
+    <measure implicit="no" number="390" width="271.05">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-20">
+        <rest />
+        <duration>20160</duration>
+        <type>half</type>
+      </note>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="132.34" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+        <notehead parentheses="yes">normal</notehead>
+      </note>
+      <barline location="right">
+        <repeat direction="backward" />
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Jersey bounce</work-title>
+  </work>
+  <movement-title>Jersey bounce.musicxml</movement-title>
+  <identification>
+    <creator type="composer">Music21</creator>
+    <rights>cc-by 4.0</rights>
+    <encoding>
+      <encoding-date>2025-03-27</encoding-date>
+      <software>music21 v.9.5.0</software>
+      <software>MuseScore 4.4.4</software>
+      <supports attribute="new-system" element="print" type="yes" value="yes" />
+      <supports attribute="new-page" element="print" type="yes" value="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99911</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1696.94</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins>
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+    </appearance>
+    <music-font font-family="Leland" />
+    <word-font font-family="Edwin" font-size="10" />
+    <lyric-font font-family="Edwin" font-size="10" />
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="600.241935" default-y="1611.210312" font-size="22" justify="center" valign="top">Jersey bounce</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="1114.7587" default-y="1511.210312" justify="right" valign="bottom" xml:space="preserve">Bobby Platter
+
+Tiny Bradshaw
+
+Edward Johnson</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="600.241935" default-y="85.725171" font-size="9" justify="center" valign="bottom">cc-by 4.0</credit-words>
+  </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="I7f3789e0443d44678f61382e8ed43930">
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I7f3789e0443d44678f61382e8ed43930">
+        <midi-channel>3</midi-channel>
+        <midi-program>1</midi-program>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="138.44">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>181.29</top-system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>-1</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none" font-size="12" relative-x="41.47" relative-y="63.46">(Med. Bounce Swing)</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">f minor (-4)</words>
+        </direction-type>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>140</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="140" />
+      </direction>
+      <note color="#FF0000" default-x="103.09" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 76 =========================-->
+    <measure implicit="no" number="76" width="244.15">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+        <degree>
+          <degree-value>9</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type>add</degree-type>
+        </degree>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="45.34" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="78.17" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="127.42" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="176.68" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="209.51" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 77 =========================-->
+    <measure implicit="no" number="77" width="173.63">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="106.15" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="138.99" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 78 =========================-->
+    <measure implicit="no" number="78" width="248.48">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">C major (0)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="16.84" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="49.67" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="82.51" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="131.76" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="181.01" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="213.85" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 79 =========================-->
+    <measure implicit="no" number="79" width="174.34">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="106.15" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="138.99" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 80 =========================-->
+    <measure implicit="no" number="80" width="310.25">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="73.71" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="107.25" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="140.78" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="191.08" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="241.38" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="274.92" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 81 =========================-->
+    <measure implicit="no" number="81" width="177.03">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="108.15" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note color="#FF0000" default-x="141.68" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 82 =========================-->
+    <measure implicit="no" number="82" width="265.81">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="46.03" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="79.57" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <harmony>
+        <root>
+          <root-step>A</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind>diminished-seventh</kind>
+      </harmony>
+      <note default-x="129.87" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="163.4" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="196.94" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="230.47" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 83 =========================-->
+    <measure implicit="no" number="83" width="275.94">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="17.12" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="50.65" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="84.19" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="117.72" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="151.26" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="201.56" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note color="#FF0000" default-x="235.09" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--========================= Measure 84 =========================-->
+    <measure implicit="no" number="84" width="343.14">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+        <degree>
+          <degree-value>9</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type>add</degree-type>
+        </degree>
+      </harmony>
+      <note default-x="73.71" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="111.95" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="150.18" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="207.53" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="264.88" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="303.11" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 85 =========================-->
+    <measure implicit="no" number="85" width="199.81">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="121.55" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="159.78" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 86 =========================-->
+    <measure implicit="no" number="86" width="286.27">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">C major (0)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="16.84" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="55.07" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="93.3" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="150.65" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="208" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="246.23" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 87 =========================-->
+    <measure implicit="no" number="87" width="199.81">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="121.55" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="159.78" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 88 =========================-->
+    <measure implicit="no" number="88" width="353.99">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="73.71" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="113.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="153.28" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="212.95" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="272.63" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="312.41" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 89 =========================-->
+    <measure implicit="no" number="89" width="207.34">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="125.97" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note color="#FF0000" default-x="165.75" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--========================= Measure 90 =========================-->
+    <measure implicit="no" number="90" width="312.67">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="52.28" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="92.07" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="131.85" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="171.63" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="231.31" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="271.09" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 91 =========================-->
+    <measure implicit="no" number="91" width="155.03">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+        <degree>
+          <degree-value>9</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type>add</degree-type>
+        </degree>
+      </harmony>
+      <note default-x="12.5" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="stop" />
+        <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--========================= Measure 92 =========================-->
+    <measure implicit="no" number="92" width="293.68">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="73.71" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="130.63" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="168.57" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="206.51" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 93 =========================-->
+    <measure implicit="no" number="93" width="251.44">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="50.44" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="88.39" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="126.33" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="164.27" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 94 =========================-->
+    <measure implicit="no" number="94" width="232.47">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">f minor (-4)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>E</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="69.41" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="107.36" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="145.3" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 95 =========================-->
+    <measure implicit="no" number="95" width="251.44">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">f minor (-4)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="50.44" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="88.39" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="126.33" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="164.27" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 96 =========================-->
+    <measure implicit="no" number="96" width="284.34">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F aeolian (-4)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="73.71" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="128.19" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="164.51" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="200.82" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 97 =========================-->
+    <measure implicit="no" number="97" width="250.37">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F aeolian (-4)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="66.98" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+      </note>
+      <note default-x="121.45" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="175.93" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="212.25" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 98 =========================-->
+    <measure implicit="no" number="98" width="241.29">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="7">augmented-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="94.21" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="130.53" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="166.85" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="203.17" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 99 =========================-->
+    <measure implicit="no" number="99" width="253.04">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">f minor (-4)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="18.76" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+      <note default-x="55.07" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="91.39" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="173.11" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note color="#FF0000" default-x="209.42" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+      <barline location="right">
+        <bar-style>light-light</bar-style>
+      </barline>
+    </measure>
+    <!--======================== Measure 100 =========================-->
+    <measure implicit="no" number="100" width="343.14">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+        <degree>
+          <degree-value>9</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type>add</degree-type>
+        </degree>
+      </harmony>
+      <note default-x="73.71" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="111.95" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="150.18" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="207.53" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="264.88" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="303.11" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 101 =========================-->
+    <measure implicit="no" number="101" width="199.81">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="121.55" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="159.78" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 102 =========================-->
+    <measure implicit="no" number="102" width="286.27">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">C major (0)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="16.84" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>0</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="55.07" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="93.3" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="150.65" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="208" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="246.23" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 103 =========================-->
+    <measure implicit="no" number="103" width="199.81">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="121.55" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="159.78" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--======================== Measure 104 =========================-->
+    <measure implicit="no" number="104" width="352.85">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>136.31</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>G</root-step>
+        </root>
+        <kind text="m7">minor-seventh</kind>
+      </harmony>
+      <note default-x="73.71" default-y="-20">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="113.33" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="152.95" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="212.38" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="271.81" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="311.43" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 105 =========================-->
+    <measure implicit="no" number="105" width="206.55">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>C</root-step>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <tie type="stop" />
+        <type>half</type>
+        <dot />
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="125.51" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note color="#FF0000" default-x="165.13" default-y="-30">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <lyric name="1" number="1">
+          <syllabic>single</syllabic>
+          <text>(G#)</text>
+        </lyric>
+      </note>
+    </measure>
+    <!--======================== Measure 106 =========================-->
+    <measure implicit="no" number="106" width="311.45">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind>major-seventh</kind>
+      </harmony>
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="52.12" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="91.74" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+      </note>
+      <note default-x="131.36" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <harmony>
+        <root>
+          <root-step>D</root-step>
+          <root-alter>-1</root-alter>
+        </root>
+        <kind text="7">dominant</kind>
+      </harmony>
+      <note default-x="170.98" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+      </note>
+      <note default-x="230.41" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="270.03" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <tie type="start" />
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--======================== Measure 107 =========================-->
+    <measure implicit="no" number="107" width="158.18">
+      <direction>
+        <direction-type>
+          <words color="#808080" enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
+      <harmony>
+        <root>
+          <root-step>F</root-step>
+        </root>
+        <kind text="6">major-sixth</kind>
+        <degree>
+          <degree-value>9</degree-value>
+          <degree-alter>0</degree-alter>
+          <degree-type>add</degree-type>
+        </degree>
+      </harmony>
+      <note default-x="12.5" default-y="0">
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>40320</duration>
+        <tie type="stop" />
+        <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>

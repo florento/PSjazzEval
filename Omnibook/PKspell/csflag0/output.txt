@@ -1,0 +1,206 @@
+
+omni = omnibook()
+
+eval_corpus(dataset=omni, csflag=0)
+
+
+ evaluation of 1p64c
+estimated KS: -1 ground truth: 0
+diff: 8 on 326 notes 97.55 %
+
+ evaluation of 2RfYc
+estimated KS: -2 ground truth: 0
+diff: 19 on 378 notes 94.97 %
+
+ evaluation of 3RfYc
+estimated KS: -1 ground truth: 0
+diff: 22 on 408 notes 94.61 %
+
+ evaluation of 3zn4c
+estimated KS: -2 ground truth: 0
+diff: 30 on 799 notes 96.25 %
+
+ evaluation of 6Cbwc
+estimated KS: -3 ground truth: 0
+diff: 6 on 446 notes 98.65 %
+
+ evaluation of 73bwc
+estimated KS: -5 ground truth: 0
+diff: 9 on 565 notes 98.41 %
+
+ evaluation of 7RfYc
+estimated KS: -5 ground truth: 0
+diff: 14 on 510 notes 97.25 %
+
+ evaluation of 7XTyc
+estimated KS: -2 ground truth: 0
+diff: 19 on 455 notes 95.82 %
+
+ evaluation of 9RfYc
+estimated KS: -1 ground truth: 0
+diff: 5 on 329 notes 98.48 %
+
+ evaluation of 9THwc
+estimated KS: 0 ground truth: 0
+diff: 10 on 308 notes 96.75 %
+
+ evaluation of BRfYc
+estimated KS: -2 ground truth: 0
+diff: 13 on 373 notes 96.51 %
+
+ evaluation of D3fYc
+estimated KS: -1 ground truth: 0
+diff: 9 on 340 notes 97.35 %
+
+ evaluation of FRfYc
+estimated KS: -5 ground truth: 0
+diff: 91 on 428 notes 78.74 %
+
+ evaluation of GRfYc-Shaw-Nuff
+estimated KS: -2 ground truth: 0
+diff: 16 on 414 notes 96.14 %
+
+ evaluation of KRfYc
+estimated KS: -1 ground truth: 0
+diff: 22 on 395 notes 94.43 %
+
+ evaluation of LRfYc
+estimated KS: -3 ground truth: 0
+diff: 6 on 432 notes 98.61 %
+
+ evaluation of N3fYc
+estimated KS: 0 ground truth: 0
+diff: 17 on 426 notes 96.01 %
+
+ evaluation of N8swc
+estimated KS: -2 ground truth: 0
+diff: 21 on 610 notes 96.56 %
+
+ evaluation of Nqn4c
+estimated KS: -1 ground truth: 0
+diff: 9 on 333 notes 97.30 %
+
+ evaluation of PRfYc
+estimated KS: -1 ground truth: 0
+diff: 12 on 424 notes 97.17 %
+
+ evaluation of Pq3yc
+estimated KS: -4 ground truth: 0
+diff: 8 on 402 notes 98.01 %
+
+ evaluation of Q6Ryc
+estimated KS: -1 ground truth: 0
+diff: 12 on 460 notes 97.39 %
+
+ evaluation of QRfYc
+estimated KS: 0 ground truth: 0
+diff: 9 on 315 notes 97.14 %
+
+ evaluation of Qrqyc
+estimated KS: -1 ground truth: 0
+diff: 16 on 366 notes 95.63 %
+
+ evaluation of Rln4c
+estimated KS: -5 ground truth: 0
+diff: 7 on 403 notes 98.26 %
+
+ evaluation of S1swc
+estimated KS: -1 ground truth: 0
+diff: 15 on 291 notes 94.85 %
+
+ evaluation of S5VYc
+estimated KS: -1 ground truth: 0
+diff: 20 on 586 notes 96.59 %
+
+ evaluation of SRfYc
+estimated KS: -2 ground truth: 0
+diff: 15 on 386 notes 96.11 %
+
+ evaluation of V3fYc
+estimated KS: -1 ground truth: 0
+diff: 48 on 883 notes 94.56 %
+
+ evaluation of WG3yc
+estimated KS: -2 ground truth: 0
+diff: 21 on 487 notes 95.69 %
+
+ evaluation of WRfYc
+estimated KS: -2 ground truth: 0
+diff: 13 on 513 notes 97.47 %
+
+ evaluation of WS64c
+estimated KS: 0 ground truth: 0
+diff: 28 on 419 notes 93.32 %
+
+ evaluation of cXbwc
+estimated KS: -4 ground truth: 0
+diff: 11 on 596 notes 98.15 %
+
+ evaluation of gRfYc-Segment
+estimated KS: -5 ground truth: 0
+diff: 27 on 584 notes 95.38 %
+
+ evaluation of lTXyc
+estimated KS: -3 ground truth: 0
+diff: 23 on 334 notes 93.11 %
+
+ evaluation of mRfYc
+estimated KS: -2 ground truth: 0
+diff: 7 on 430 notes 98.37 %
+
+ evaluation of mTHyc
+estimated KS: -2 ground truth: 0
+diff: 12 on 293 notes 95.90 %
+
+ evaluation of myn4c
+estimated KS: 0 ground truth: 0
+diff: 34 on 633 notes 94.63 %
+
+ evaluation of nRfYc
+estimated KS: -2 ground truth: 0
+diff: 16 on 390 notes 95.90 %
+
+ evaluation of nvJyc
+estimated KS: -1 ground truth: 0
+diff: 10 on 415 notes 97.59 %
+
+ evaluation of rCn4c
+estimated KS: -1 ground truth: 0
+diff: 9 on 375 notes 97.60 %
+
+ evaluation of rRfYc
+estimated KS: -1 ground truth: 0
+diff: 6 on 324 notes 98.15 %
+
+ evaluation of t66yc
+estimated KS: -1 ground truth: 0
+diff: 16 on 296 notes 94.59 %
+
+ evaluation of tCfYc
+estimated KS: -2 ground truth: 0
+diff: 32 on 758 notes 95.78 %
+
+ evaluation of tRfYc
+estimated KS: -2 ground truth: -1
+diff: 15 on 437 notes 96.57 %
+
+ evaluation of vRfYc
+estimated KS: -3 ground truth: 0
+diff: 8 on 398 notes 97.99 %
+
+ evaluation of wkTyc
+estimated KS: 0 ground truth: 0
+diff: 20 on 475 notes 95.79 %
+
+ evaluation of wv3wc
+estimated KS: -4 ground truth: 0
+diff: 59 on 647 notes 90.88 %
+
+ evaluation of xRfYc
+estimated KS: -2 ground truth: 0
+diff: 8 on 421 notes 98.10 %
+
+ evaluation of yp3wc
+estimated KS: -1 ground truth: 0
+diff: 23 on 682 notes 96.63 %
+

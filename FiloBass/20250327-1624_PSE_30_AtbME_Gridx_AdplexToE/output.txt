@@ -1,0 +1,785 @@
+
+eval_FiloBass(tons=30, costtype1=ps.pse.CTYPE_ACCIDtb, tonal1=False, octave1=False, det1=False, global1=100, grid=ps.pse.Grid_Exhaustive, costtype2=ps.pse.CTYPE_ADplex, tonal2=True, octave2=True, det2=False, dflag=True, mflag=True, csflag=2)
+
+
+ starting evaluation of FRB dataset - 48 entries
+
+
+ 01-All-the-Things-You-Are 
+
+01-All-the-Things-You-Are  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1062 notes, 195 bars,
+pass 2: 860 notes, 195 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 399.80 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 538.69 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 482.72 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: OK: ( E- major ), has the same signature as E- major
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 36
+PSE: rewrite passing notes
+PSE: diff after rewriting: 38
+
+ 02-Alone-Together 
+
+02-Alone-Together  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1087 notes, 185 bars,
+pass 2: 838 notes, 185 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 378.43 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 491.50 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 409.97 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 21
+PSE: rewrite passing notes
+PSE: diff after rewriting: 23
+
+ 03-Apple-Jump 
+
+03-Apple-Jump  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1494 notes, 262 bars,
+pass 2: 1052 notes, 262 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 524.97 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 713.24 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 522.88 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 25
+PSE: rewrite passing notes
+PSE: diff after rewriting: 25
+
+ 04-Autumn-Leaves 
+
+04-Autumn-Leaves  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1055 notes, 171 bars,
+pass 2: 869 notes, 171 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 454.45 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 448.66 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 554.87 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 8
+global ton: OK: ( g minor ), has the same signature as B- major
+PSE: renaming with the spelling computed 8 g minor
+PSE: diff before rewriting: 20
+PSE: rewrite passing notes
+PSE: diff after rewriting: 25
+
+ 05-Blues-By-Five 
+
+05-Blues-By-Five  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 998 notes, 148 bars,
+pass 2: 849 notes, 148 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 516.63 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 394.81 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 588.41 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: NO: ( d minor was C major ),
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 37
+PSE: rewrite passing notes
+PSE: diff after rewriting: 37
+
+ 06-Bye-Bye-Blackbird 
+
+06-Bye-Bye-Blackbird  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1225 notes, 226 bars,
+pass 2: 978 notes, 226 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 444.29 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 595.32 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 503.73 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 26
+PSE: rewrite passing notes
+PSE: diff after rewriting: 27
+
+ 07-C-Jam-Blues 
+
+07-C-Jam-Blues  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 945 notes, 174 bars,
+pass 2: 773 notes, 174 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 357.90 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 458.85 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 416.82 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: NO: ( d minor was C major ),
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 42
+PSE: rewrite passing notes
+PSE: diff after rewriting: 40
+
+ 08-Come-Rain-Or-Shine 
+
+08-Come-Rain-Or-Shine  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1396 notes, 249 bars,
+pass 2: 1061 notes, 249 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 469.38 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 651.78 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 541.84 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: OK: ( F major ), has the same signature as F major
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 56
+PSE: rewrite passing notes
+PSE: diff after rewriting: 60
+
+ 09-Cottontail 
+
+09-Cottontail  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 2005 notes, 354 bars,
+pass 2: 1444 notes, 354 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 746.20 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 937.07 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 817.20 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: OK: ( E- major ), has the same signature as E- major
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 33
+PSE: rewrite passing notes
+PSE: diff after rewriting: 34
+
+ 10-Dear-Old-Stockholm 
+
+10-Dear-Old-Stockholm  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1261 notes, 228 bars,
+pass 2: 987 notes, 228 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 431.76 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 588.83 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 485.23 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 11
+
+ 11-Dolphin-Dance 
+
+11-Dolphin-Dance  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1271 notes, 176 bars,
+pass 2: 1077 notes, 176 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 499.13 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 461.79 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1243.23 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: NO: ( F major was E- major ),
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 16
+PSE: rewrite passing notes
+PSE: diff after rewriting: 16
+
+ 12-Doxy 
+
+12-Doxy  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1278 notes, 221 bars,
+pass 2: 982 notes, 221 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 505.00 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 593.45 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 550.88 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: OK: ( F major ), has the same signature as F major
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 23
+PSE: rewrite passing notes
+PSE: diff after rewriting: 23
+
+ 13-For-Regulars-Only 
+
+13-For-Regulars-Only  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1635 notes, 279 bars,
+pass 2: 1150 notes, 279 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 666.16 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 758.85 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 678.09 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: NO: ( E- major was B- major ),
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 62
+PSE: rewrite passing notes
+PSE: diff after rewriting: 63
+
+ 14-Four 
+
+14-Four  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1868 notes, 358 bars,
+pass 2: 1472 notes, 358 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 654.12 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 957.82 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 802.89 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: OK: ( E- major ), has the same signature as E- major
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 39
+PSE: rewrite passing notes
+PSE: diff after rewriting: 42
+
+ 15-Fried-Bananas 
+
+15-Fried-Bananas  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1640 notes, 304 bars,
+pass 2: 1247 notes, 304 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 600.53 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 808.09 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 660.84 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 12
+global ton: OK: ( c minor ), has the same signature as E- major
+PSE: renaming with the spelling computed 12 c minor
+PSE: diff before rewriting: 25
+PSE: rewrite passing notes
+PSE: diff after rewriting: 26
+
+ 16-Gone-With-The-Wind 
+
+16-Gone-With-The-Wind  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1452 notes, 271 bars,
+pass 2: 1050 notes, 271 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 502.33 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 714.49 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 534.41 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: NO: ( B- major was C major ),
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 122
+PSE: rewrite passing notes
+PSE: diff after rewriting: 133
+
+ 17-Have-You-Met-Miss-Jones 
+
+17-Have-You-Met-Miss-Jones  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1902 notes, 363 bars,
+pass 2: 1464 notes, 363 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 638.67 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 951.85 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 711.90 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: OK: ( F major ), has the same signature as F major
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 131
+PSE: rewrite passing notes
+PSE: diff after rewriting: 132
+
+ 18-Honeysuckle-Rose 
+
+18-Honeysuckle-Rose  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1542 notes, 265 bars,
+pass 2: 1075 notes, 265 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 556.41 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 717.09 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 592.72 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: NO: ( F major was C major ),
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 113
+PSE: rewrite passing notes
+PSE: diff after rewriting: 114
+
+ 19-Ill-Remember-April 
+
+19-Ill-Remember-April  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1749 notes, 345 bars,
+pass 2: 1397 notes, 345 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 622.05 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 932.70 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 666.20 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: G major ( 1 ) index: 3
+global ton: OK: ( G major ), has the same signature as G major
+PSE: renaming with the spelling computed 3 G major
+PSE: diff before rewriting: 40
+PSE: rewrite passing notes
+PSE: diff after rewriting: 40
+
+ 20-In-A-Mellow-Tone 
+
+20-In-A-Mellow-Tone  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1164 notes, 200 bars,
+pass 2: 953 notes, 200 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 599.58 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 562.63 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 707.19 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: NO: ( E- major was A- major ),
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 41
+PSE: rewrite passing notes
+PSE: diff after rewriting: 48
+
+ 21-In-Your-Own-Sweet-Way 
+
+21-In-Your-Own-Sweet-Way  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1072 notes, 180 bars,
+pass 2: 753 notes, 180 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 353.69 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 469.23 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 408.17 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 8
+global ton: NO: ( g minor was F major ),
+PSE: renaming with the spelling computed 8 g minor
+PSE: diff before rewriting: 22
+PSE: rewrite passing notes
+PSE: diff after rewriting: 22
+
+ 22-Invitation 
+
+22-Invitation  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1553 notes, 304 bars,
+pass 2: 1238 notes, 304 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 585.92 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 820.25 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 650.01 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: NO: ( B- major was E- major ),
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 109
+PSE: rewrite passing notes
+PSE: diff after rewriting: 106
+
+ 23-Isotope 
+
+23-Isotope  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1551 notes, 279 bars,
+pass 2: 1229 notes, 279 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 600.80 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 731.90 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 690.31 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: NO: ( d minor was C major ),
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 108
+PSE: rewrite passing notes
+PSE: diff after rewriting: 114
+
+ 24-Just-Friends 
+
+24-Just-Friends  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1589 notes, 301 bars,
+pass 2: 1235 notes, 301 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 625.75 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 795.19 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 677.18 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 69
+PSE: rewrite passing notes
+PSE: diff after rewriting: 78
+
+ 25-Ladybird 
+
+25-Ladybird  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1681 notes, 332 bars,
+pass 2: 1321 notes, 332 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 576.09 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 884.86 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 703.02 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: NO: ( F major was C major ),
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 187
+PSE: rewrite passing notes
+PSE: diff after rewriting: 186
+
+ 26-Milestones 
+
+26-Milestones  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1382 notes, 230 bars,
+pass 2: 1025 notes, 230 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 488.60 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 603.94 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 607.28 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: NO: ( F major was C major ),
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 123
+PSE: rewrite passing notes
+PSE: diff after rewriting: 121
+
+ 27-Montmartre 
+
+27-Montmartre  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1639 notes, 305 bars,
+pass 2: 1273 notes, 305 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 630.10 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 826.88 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 773.41 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: b- minor ( -5 ) index: 20
+global ton: OK: ( b- minor ), has the same signature as D- major
+PSE: renaming with the spelling computed 20 b- minor
+PSE: diff before rewriting: 162
+PSE: rewrite passing notes
+PSE: diff after rewriting: 161
+
+ 28-Namely-You 
+
+28-Namely-You  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1264 notes, 199 bars,
+pass 2: 893 notes, 199 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 472.00 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 523.96 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 512.44 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: OK: ( B- major ), has the same signature as B- major
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 32
+PSE: rewrite passing notes
+PSE: diff after rewriting: 33
+
+ 29-Nows-The-Time 
+
+29-Nows-The-Time  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1492 notes, 294 bars,
+pass 2: 1203 notes, 294 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 577.76 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 771.69 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 655.01 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 54
+PSE: rewrite passing notes
+PSE: diff after rewriting: 54
+
+ 30-Oleo 
+
+30-Oleo  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1968 notes, 370 bars,
+pass 2: 1411 notes, 370 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 760.99 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1009.01 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 741.06 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 2
+global ton: OK: ( F major ), has the same signature as F major
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 91
+PSE: rewrite passing notes
+PSE: diff after rewriting: 91
+
+ 31-On-Green-Dolphin-Street 
+
+31-On-Green-Dolphin-Street  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1672 notes, 315 bars,
+pass 2: 1280 notes, 315 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 598.30 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 835.63 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 715.94 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: NO: ( B- major was E- major ),
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 28
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ 32-Out-Of-The-Night 
+
+32-Out-Of-The-Night  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 982 notes, 178 bars,
+pass 2: 777 notes, 178 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 434.10 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 484.30 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 513.31 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 12
+global ton: NO: ( c minor was A- major ),
+PSE: renaming with the spelling computed 12 c minor
+PSE: diff before rewriting: 47
+PSE: rewrite passing notes
+PSE: diff after rewriting: 47
+
+ 33-Parisian-Thoroughfare 
+
+33-Parisian-Thoroughfare  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1808 notes, 326 bars,
+pass 2: 1321 notes, 326 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 650.48 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 860.95 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 649.63 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : F major ( -1 ) index: 2
+PSE: global 2 / 2 : d minor ( -1 ) index: 4
+PSE: tie breaking Global
+PSE: global selected: F major ( -1 ) index: 2
+global ton: NO: ( F major was C major ),
+PSE: renaming with the spelling computed 2 F major
+PSE: diff before rewriting: 78
+PSE: rewrite passing notes
+PSE: diff after rewriting: 79
+
+ 34-Pennies-From-Heaven 
+
+34-Pennies-From-Heaven  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 967 notes, 171 bars,
+pass 2: 723 notes, 171 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 350.36 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 446.24 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 408.92 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as C major
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 63
+PSE: rewrite passing notes
+PSE: diff after rewriting: 66
+
+ 35-Satin-Doll 
+
+35-Satin-Doll  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1384 notes, 207 bars,
+pass 2: 1050 notes, 207 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 622.86 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 542.15 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 657.52 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as C major
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 89
+PSE: rewrite passing notes
+PSE: diff after rewriting: 93
+
+ 36-Scrapple-From-The-Apple 
+
+36-Scrapple-From-The-Apple  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1709 notes, 327 bars,
+pass 2: 1319 notes, 327 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 645.05 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 852.22 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 673.83 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: NO: ( d minor was C major ),
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 72
+PSE: rewrite passing notes
+PSE: diff after rewriting: 73
+
+ 37-Sonnymoon-For-Two 
+
+37-Sonnymoon-For-Two  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1089 notes, 211 bars,
+pass 2: 866 notes, 211 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 441.62 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 580.54 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 495.74 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: NO: ( B- major was F major ),
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 50
+PSE: rewrite passing notes
+PSE: diff after rewriting: 56
+
+ 38-Soon 
+
+38-Soon  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1461 notes, 267 bars,
+pass 2: 1136 notes, 267 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 563.62 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 711.32 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 632.65 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 10
+global ton: OK: ( E- major ), has the same signature as E- major
+PSE: renaming with the spelling computed 10 E- major
+PSE: diff before rewriting: 24
+PSE: rewrite passing notes
+PSE: diff after rewriting: 24
+
+ 39-Star-Eyes 
+
+39-Star-Eyes  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1810 notes, 328 bars,
+pass 2: 1342 notes, 328 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 699.07 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 877.71 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 771.37 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : c minor ( -3 ) index: 12
+PSE: global 2 / 2 : f minor ( -4 ) index: 16
+PSE: tie breaking Global
+PSE: global selected: c minor ( -3 ) index: 12
+global ton: NO: ( c minor was B- major ),
+PSE: renaming with the spelling computed 12 c minor
+PSE: diff before rewriting: 51
+PSE: rewrite passing notes
+PSE: diff after rewriting: 61
+
+ 40-Stella-By-Starlight 
+
+40-Stella-By-Starlight  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1622 notes, 293 bars,
+pass 2: 1304 notes, 293 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 606.58 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 777.73 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 664.84 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: OK: ( d minor ), has the same signature as F major
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 52
+PSE: rewrite passing notes
+PSE: diff after rewriting: 52
+
+ 41-Step-Lightly 
+
+41-Step-Lightly  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 903 notes, 171 bars,
+pass 2: 735 notes, 171 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 363.42 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 448.77 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 423.41 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as C major
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 59
+PSE: rewrite passing notes
+PSE: diff after rewriting: 59
+
+ 42-Sweet-Georgia-Brown 
+
+42-Sweet-Georgia-Brown  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1152 notes, 179 bars,
+pass 2: 937 notes, 179 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 599.50 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 472.38 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 708.96 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: NO: ( B- major was A- major ),
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 14
+PSE: rewrite passing notes
+PSE: diff after rewriting: 14
+
+ 43-Take-The-A-Train 
+
+43-Take-The-A-Train  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1395 notes, 239 bars,
+pass 2: 1135 notes, 239 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 555.53 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 639.94 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 616.51 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as C major
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 28
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ 44-Tangerine 
+
+44-Tangerine  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1862 notes, 330 bars,
+pass 2: 1418 notes, 330 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 637.65 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 871.01 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 682.66 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: a minor ( 0 ) index: 1
+global ton: OK: ( a minor ), has the same signature as C major
+PSE: renaming with the spelling computed 1 a minor
+PSE: diff before rewriting: 27
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ 45-The-Rainbow-People 
+
+45-The-Rainbow-People  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1157 notes, 195 bars,
+pass 2: 861 notes, 195 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 489.74 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 508.75 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 593.12 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 12
+global ton: OK: ( c minor ), has the same signature as E- major
+PSE: renaming with the spelling computed 12 c minor
+PSE: diff before rewriting: 22
+PSE: rewrite passing notes
+PSE: diff after rewriting: 25
+
+ 46-There-Will-Never-Be-Another-You 
+
+46-There-Will-Never-Be-Another-You  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1743 notes, 302 bars,
+pass 2: 1401 notes, 302 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 727.36 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 860.15 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 882.59 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 6
+global ton: OK: ( B- major ), has the same signature as B- major
+PSE: renaming with the spelling computed 6 B- major
+PSE: diff before rewriting: 58
+PSE: rewrite passing notes
+PSE: diff after rewriting: 62
+
+ 47-Three-Little-Words 
+
+47-Three-Little-Words  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1828 notes, 366 bars,
+pass 2: 1421 notes, 366 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 642.00 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 988.47 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 694.33 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 4
+global ton: NO: ( d minor was C major ),
+PSE: renaming with the spelling computed 4 d minor
+PSE: diff before rewriting: 87
+PSE: rewrite passing notes
+PSE: diff after rewriting: 88
+
+ 48-UMMG 
+
+48-UMMG  PSE: spelling with PSE30_AtbME_Gridx_AdplexToE
+pass 1: 1612 notes, 324 bars,
+pass 2: 1278 notes, 324 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 590.55 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 880.61 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 680.81 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: D- major ( -5 ) index: 18
+global ton: OK: ( D- major ), has the same signature as D- major
+PSE: renaming with the spelling computed 18 D- major
+PSE: diff before rewriting: 32
+PSE: rewrite passing notes
+PSE: diff after rewriting: 37
+parts spelled   : 48
+notes spelled   : 53463
+correct spelling: 94.68 %
+correct KS estim: 58.33 %
+

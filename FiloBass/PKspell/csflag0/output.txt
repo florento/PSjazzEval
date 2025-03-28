@@ -1,0 +1,198 @@
+
+filobass = FiloBass()
+
+eval_corpus(dataset=filobass, csflag=0)
+
+
+ evaluation of All-the-Things-You-Are
+estimated KS: -4 ground truth: -3
+diff: 63 on 854 notes 92.62 %
+
+ evaluation of Alone-Together
+estimated KS: -1 ground truth: -1
+diff: 16 on 838 notes 98.09 %
+
+ evaluation of Apple-Jump
+estimated KS: -1 ground truth: -1
+diff: 52 on 1051 notes 95.05 %
+
+ evaluation of Autumn-Leaves
+estimated KS: -2 ground truth: -2
+diff: 30 on 869 notes 96.55 %
+
+ evaluation of Blues-By-Five
+estimated KS: -1 ground truth: -1
+diff: 53 on 854 notes 93.79 %
+
+ evaluation of Bye-Bye-Blackbird
+estimated KS: -1 ground truth: -1
+diff: 39 on 979 notes 96.02 %
+
+ evaluation of C-Jam-Blues
+estimated KS: 0 ground truth: 0
+diff: 14 on 773 notes 98.19 %
+
+ evaluation of Come-Rain-or-Come-Shine
+estimated KS: -1 ground truth: -1
+diff: 63 on 1061 notes 94.06 %
+
+ evaluation of Cottontail
+estimated KS: -1 ground truth: -2
+diff: 53 on 1444 notes 96.33 %
+
+ evaluation of Dear-Old-Stockholm
+estimated KS: -1 ground truth: -1
+diff: 9 on 981 notes 99.08 %
+
+ evaluation of Dolphin-dance
+estimated KS: -3 ground truth: -3
+diff: 79 on 1078 notes 92.67 %
+
+ evaluation of Doxy
+estimated KS: -3 ground truth: -2
+diff: 17 on 981 notes 98.27 %
+
+ evaluation of For-Regulars-Only
+estimated KS: -5 ground truth: -5
+diff: 42 on 1151 notes 96.35 %
+
+ evaluation of Four
+estimated KS: -6 ground truth: -3
+diff: 248 on 1471 notes 83.14 %
+
+ evaluation of Fried-Bananas
+estimated KS: -2 ground truth: -3
+diff: 12 on 1248 notes 99.04 %
+
+ evaluation of Gone-with-the-wind
+estimated KS: -2 ground truth: -3
+diff: 61 on 1046 notes 94.17 %
+
+ evaluation of Have-You-Met-Miss-Jones
+estimated KS: -1 ground truth: -1
+diff: 190 on 1463 notes 87.01 %
+
+ evaluation of Honeysuckle-Rose
+estimated KS: 0 ground truth: -1
+diff: 56 on 1075 notes 94.79 %
+
+ evaluation of I-ll-Remember-April
+estimated KS: 1 ground truth: 1
+diff: 26 on 1398 notes 98.14 %
+
+ evaluation of In-Your-Own-Sweet-Way
+estimated KS: -2 ground truth: -3
+diff: 40 on 800 notes 95.00 %
+
+ evaluation of In-a-Mellow-Tone
+estimated KS: -4 ground truth: -4
+diff: 60 on 961 notes 93.76 %
+
+ evaluation of Invitation
+estimated KS: -2 ground truth: -3
+diff: 168 on 1238 notes 86.43 %
+
+ evaluation of Isotope
+estimated KS: 0 ground truth: 0
+diff: 85 on 1225 notes 93.06 %
+
+ evaluation of Just-Friends
+estimated KS: -1 ground truth: -1
+diff: 75 on 1235 notes 93.93 %
+
+ evaluation of Ladybird
+estimated KS: -3 ground truth: 0
+diff: 23 on 1321 notes 98.26 %
+
+ evaluation of Milestones
+estimated KS: -4 ground truth: -3
+diff: 56 on 1025 notes 94.54 %
+
+ evaluation of Montmartre
+estimated KS: -5 ground truth: -5
+diff: 117 on 1270 notes 90.79 %
+
+ evaluation of Namely-You
+estimated KS: -2 ground truth: -2
+diff: 22 on 894 notes 97.54 %
+
+ evaluation of Nows-the-time
+estimated KS: -1 ground truth: -1
+diff: 22 on 1201 notes 98.17 %
+
+ evaluation of Oleo
+estimated KS: -2 ground truth: -2
+diff: 83 on 1403 notes 94.08 %
+
+ evaluation of On-Green-Dolphin-Street
+estimated KS: -6 ground truth: -3
+diff: 35 on 1286 notes 97.28 %
+
+ evaluation of Out-of-the-Night
+estimated KS: -4 ground truth: -4
+diff: 13 on 775 notes 98.32 %
+
+ evaluation of Parisian-Thoroughfare
+estimated KS: -1 ground truth: -1
+diff: 45 on 1320 notes 96.59 %
+
+ evaluation of Pennies-from-Heaven
+estimated KS: 0 ground truth: 0
+diff: 39 on 723 notes 94.61 %
+
+ evaluation of Satin-Doll
+estimated KS: 0 ground truth: 0
+diff: 54 on 1064 notes 94.92 %
+
+ evaluation of Scrapple-From-the-Apple
+estimated KS: -1 ground truth: -1
+diff: 44 on 1324 notes 96.68 %
+
+ evaluation of Sonnymoon-for-Two
+estimated KS: -2 ground truth: -2
+diff: 19 on 871 notes 97.82 %
+
+ evaluation of Soon
+estimated KS: -3 ground truth: -3
+diff: 21 on 1139 notes 98.16 %
+
+ evaluation of Star-Eyes
+estimated KS: -2 ground truth: -3
+diff: 25 on 1348 notes 98.15 %
+
+ evaluation of Stella-By-Starlight
+estimated KS: -2 ground truth: -2
+diff: 24 on 1325 notes 98.19 %
+
+ evaluation of Step-Lightly
+estimated KS: 0 ground truth: 0
+diff: 36 on 738 notes 95.12 %
+
+ evaluation of Sweet-Georgia-Brown
+estimated KS: -4 ground truth: -4
+diff: 18 on 936 notes 98.08 %
+
+ evaluation of Take-the-A-Train
+estimated KS: 0 ground truth: 0
+diff: 11 on 1145 notes 99.04 %
+
+ evaluation of Tangerine
+estimated KS: -2 ground truth: -1
+diff: 31 on 1433 notes 97.84 %
+
+ evaluation of The-Rainbow-People
+estimated KS: -2 ground truth: -3
+diff: 28 on 857 notes 96.73 %
+
+ evaluation of There-will-never-be-another-you
+estimated KS: -3 ground truth: -3
+diff: 39 on 1403 notes 97.22 %
+
+ evaluation of Three-Little-Words
+estimated KS: 0 ground truth: 0
+diff: 77 on 1424 notes 94.59 %
+
+ evaluation of UMMG
+estimated KS: -5 ground truth: -5
+diff: 389 on 1279 notes 69.59 %
+

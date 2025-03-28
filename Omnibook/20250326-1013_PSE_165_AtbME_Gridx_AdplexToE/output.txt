@@ -1,0 +1,825 @@
+
+
+ starting evaluation of FRB dataset - 50 entries
+
+
+ 1p64c 
+
+1p64c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 549 notes, 49 bars,
+pass 2: 326 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 788.72 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1817.92 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 715.56 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 3
+PSE: rewrite passing notes
+PSE: diff after rewriting: 3
+
+ 2RfYc 
+
+2RfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 615 notes, 50 bars,
+pass 2: 378 notes, 50 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 7672.17 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1857.45 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 6148.39 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 35
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 35 g minor
+PSE: diff before rewriting: 18
+PSE: rewrite passing notes
+PSE: diff after rewriting: 19
+
+ 3RfYc 
+
+3RfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 678 notes, 66 bars,
+pass 2: 408 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 779.53 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2431.75 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 431.02 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 13
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 13 d minor
+PSE: diff before rewriting: 7
+PSE: rewrite passing notes
+PSE: diff after rewriting: 7
+
+ 3zn4c 
+
+3zn4c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1441 notes, 131 bars,
+pass 2: 799 notes, 131 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1861.11 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 4907.63 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1142.65 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 35
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 35 g minor
+PSE: diff before rewriting: 28
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ 6Cbwc 
+
+6Cbwc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 743 notes, 65 bars,
+pass 2: 446 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1161.27 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2424.48 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 811.73 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 57
+global ton: NO: ( c minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 57 c minor
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 12
+
+ 73bwc 
+
+73bwc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 952 notes, 97 bars,
+pass 2: 565 notes, 97 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1164.96 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3628.48 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 868.93 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: D- major ( -5 ) index: 99
+global ton: NO: ( D- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 99 D- major
+PSE: diff before rewriting: 21
+PSE: rewrite passing notes
+PSE: diff after rewriting: 19
+
+ 7RfYc 
+
+7RfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 833 notes, 74 bars,
+pass 2: 510 notes, 74 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 3184.07 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2752.18 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 2060.88 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 16
+PSE: rewrite passing notes
+PSE: diff after rewriting: 17
+
+ 7XTyc 
+
+7XTyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 787 notes, 96 bars,
+pass 2: 455 notes, 96 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1193.83 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2469.73 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 760.53 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 35
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 35 g minor
+PSE: diff before rewriting: 24
+PSE: rewrite passing notes
+PSE: diff after rewriting: 24
+
+ 9RfYc 
+
+9RfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 540 notes, 50 bars,
+pass 2: 329 notes, 50 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 768.72 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1870.27 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1361.58 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 13
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 13 d minor
+PSE: diff before rewriting: 3
+PSE: rewrite passing notes
+PSE: diff after rewriting: 3
+
+ 9THwc 
+
+9THwc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 501 notes, 37 bars,
+pass 2: 308 notes, 37 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 2811.98 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1361.26 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 2245.61 ms
+PSE: 3 global(s) in final selection:
+PSE: global 1 / 3 : C major ( 0 ) index: 0
+PSE: global 2 / 3 : F major ( -1 ) index: 11
+PSE: global 3 / 3 : d minor ( -1 ) index: 13
+PSE: tie breaking Global
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 10
+PSE: rewrite passing notes
+PSE: diff after rewriting: 11
+
+ BRfYc 
+
+BRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 665 notes, 65 bars,
+pass 2: 373 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 739.38 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2408.27 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 388.98 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: g minor ( -2 ) index: 35
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 35 g minor
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 11
+
+ D3fYc 
+
+D3fYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 682 notes, 65 bars,
+pass 2: 340 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 656.19 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2401.60 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 401.65 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : a minor ( 0 ) index: 1
+PSE: global 2 / 2 : F major ( -1 ) index: 11
+PSE: tie breaking Global
+PSE: global selected: a minor ( 0 ) index: 1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 1 a minor
+PSE: diff before rewriting: 5
+PSE: rewrite passing notes
+PSE: diff after rewriting: 5
+
+ FRfYc 
+
+FRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 690 notes, 129 bars,
+pass 2: 428 notes, 129 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1364.61 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2497.53 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1491.56 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: D- major ( -5 ) index: 99
+global ton: NO: ( D- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 99 D- major
+PSE: diff before rewriting: 28
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ GRfYc-Shaw-Nuff 
+
+GRfYc-Shaw-Nuff  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 782 notes, 66 bars,
+pass 2: 414 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1162.31 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2454.02 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 599.06 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : B- major ( -2 ) index: 33
+PSE: global 2 / 2 : g minor ( -2 ) index: 35
+PSE: tie breaking Global
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 12
+PSE: rewrite passing notes
+PSE: diff after rewriting: 13
+
+ KRfYc 
+
+KRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 665 notes, 66 bars,
+pass 2: 395 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 603.74 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2450.02 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 389.03 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 13
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 13 d minor
+PSE: diff before rewriting: 7
+PSE: rewrite passing notes
+PSE: diff after rewriting: 7
+
+ LRfYc 
+
+LRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 782 notes, 66 bars,
+pass 2: 432 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 4116.61 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2470.82 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 4435.78 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: E- major ( -3 ) index: 55
+global ton: NO: ( E- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 55 E- major
+PSE: diff before rewriting: 7
+PSE: rewrite passing notes
+PSE: diff after rewriting: 8
+
+ N3fYc 
+
+N3fYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 689 notes, 62 bars,
+pass 2: 426 notes, 62 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 934.08 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2302.50 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 901.24 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 13
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 13 d minor
+PSE: diff before rewriting: 16
+PSE: rewrite passing notes
+PSE: diff after rewriting: 16
+
+ N8swc 
+
+N8swc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1150 notes, 98 bars,
+pass 2: 610 notes, 98 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1655.90 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3656.27 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 966.09 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 23
+PSE: rewrite passing notes
+PSE: diff after rewriting: 24
+
+ Nqn4c 
+
+Nqn4c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 549 notes, 49 bars,
+pass 2: 333 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 728.99 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1819.88 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1090.33 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 4
+PSE: rewrite passing notes
+PSE: diff after rewriting: 4
+
+ PRfYc 
+
+PRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 675 notes, 62 bars,
+pass 2: 424 notes, 62 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 854.11 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2292.22 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 943.79 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 12
+PSE: rewrite passing notes
+PSE: diff after rewriting: 12
+
+ Pq3yc 
+
+Pq3yc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 650 notes, 66 bars,
+pass 2: 402 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 872.69 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2471.09 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 537.46 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: f minor ( -4 ) index: 79
+global ton: NO: ( f minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 79 f minor
+PSE: diff before rewriting: 12
+PSE: rewrite passing notes
+PSE: diff after rewriting: 12
+
+ Q6Ryc 
+
+Q6Ryc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 798 notes, 74 bars,
+pass 2: 460 notes, 74 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 740.42 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2743.01 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 645.31 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 7
+PSE: rewrite passing notes
+PSE: diff after rewriting: 7
+
+ QRfYc 
+
+QRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 529 notes, 49 bars,
+pass 2: 315 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 480.98 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1814.64 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 342.33 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 8
+PSE: rewrite passing notes
+PSE: diff after rewriting: 9
+
+ Qrqyc 
+
+Qrqyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 623 notes, 49 bars,
+pass 2: 366 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1089.91 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1819.55 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1472.54 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 20
+PSE: rewrite passing notes
+PSE: diff after rewriting: 20
+
+ Rln4c 
+
+Rln4c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 669 notes, 61 bars,
+pass 2: 403 notes, 61 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 787.80 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2287.33 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1100.20 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 57
+global ton: NO: ( c minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 57 c minor
+PSE: diff before rewriting: 10
+PSE: rewrite passing notes
+PSE: diff after rewriting: 12
+
+ S1swc 
+
+S1swc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 449 notes, 38 bars,
+pass 2: 291 notes, 38 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 485.08 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1425.87 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 518.15 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: a minor ( 0 ) index: 1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 1 a minor
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 11
+
+ S5VYc 
+
+S5VYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1106 notes, 97 bars,
+pass 2: 586 notes, 97 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1272.53 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3668.23 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 690.05 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 15
+PSE: rewrite passing notes
+PSE: diff after rewriting: 15
+
+ SRfYc 
+
+SRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 707 notes, 65 bars,
+pass 2: 386 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1129.74 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2415.29 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 709.55 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 11
+
+ V3fYc 
+
+V3fYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1371 notes, 145 bars,
+pass 2: 883 notes, 145 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1677.31 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 5464.39 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1330.03 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 41
+PSE: rewrite passing notes
+PSE: diff after rewriting: 39
+
+ WG3yc 
+
+WG3yc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 788 notes, 73 bars,
+pass 2: 487 notes, 73 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 852.48 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2715.65 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 677.87 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : g minor ( -2 ) index: 35
+PSE: global 2 / 2 : c minor ( -3 ) index: 57
+PSE: tie breaking Global
+PSE: global selected: g minor ( -2 ) index: 35
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 35 g minor
+PSE: diff before rewriting: 17
+PSE: rewrite passing notes
+PSE: diff after rewriting: 18
+
+ WRfYc 
+
+WRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 811 notes, 73 bars,
+pass 2: 513 notes, 73 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 3243.52 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2732.29 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1745.78 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 16
+PSE: rewrite passing notes
+PSE: diff after rewriting: 15
+
+ WS64c 
+
+WS64c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 681 notes, 62 bars,
+pass 2: 419 notes, 62 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1086.54 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2299.30 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1091.35 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 11
+PSE: rewrite passing notes
+PSE: diff after rewriting: 13
+
+ cXbwc 
+
+cXbwc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 983 notes, 97 bars,
+pass 2: 596 notes, 97 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1277.41 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3633.50 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 967.23 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: f minor ( -4 ) index: 79
+global ton: NO: ( f minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 79 f minor
+PSE: diff before rewriting: 16
+PSE: rewrite passing notes
+PSE: diff after rewriting: 15
+
+ gRfYc-Segment 
+
+gRfYc-Segment  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 976 notes, 97 bars,
+pass 2: 584 notes, 97 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1320.63 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3633.76 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1041.20 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: D- major ( -5 ) index: 99
+global ton: NO: ( D- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 99 D- major
+PSE: diff before rewriting: 24
+PSE: rewrite passing notes
+PSE: diff after rewriting: 24
+
+ lTXyc 
+
+lTXyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 519 notes, 65 bars,
+pass 2: 334 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 3115.00 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1541.63 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 7194.24 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: A- major ( -4 ) index: 77
+global ton: NO: ( A- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 77 A- major
+PSE: diff before rewriting: 13
+PSE: rewrite passing notes
+PSE: diff after rewriting: 12
+
+ mRfYc 
+
+mRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 791 notes, 65 bars,
+pass 2: 430 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 866.81 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2434.44 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 596.64 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 10
+PSE: rewrite passing notes
+PSE: diff after rewriting: 9
+
+ mTHyc 
+
+mTHyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 500 notes, 49 bars,
+pass 2: 293 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 458.13 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1830.54 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 320.26 ms
+PSE: 2 global(s) in final selection:
+PSE: global 1 / 2 : B- major ( -2 ) index: 33
+PSE: global 2 / 2 : g minor ( -2 ) index: 35
+PSE: tie breaking Global
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 4
+PSE: rewrite passing notes
+PSE: diff after rewriting: 5
+
+ myn4c 
+
+myn4c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1145 notes, 98 bars,
+pass 2: 633 notes, 98 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1578.91 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3646.33 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 859.65 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 18
+PSE: rewrite passing notes
+PSE: diff after rewriting: 17
+
+ nRfYc 
+
+nRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 645 notes, 66 bars,
+pass 2: 390 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 744.40 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2454.31 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 480.77 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 10
+PSE: rewrite passing notes
+PSE: diff after rewriting: 10
+
+ nvJyc 
+
+nvJyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 748 notes, 65 bars,
+pass 2: 415 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 749.63 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2413.24 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 506.40 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 7
+PSE: rewrite passing notes
+PSE: diff after rewriting: 8
+
+ rCn4c 
+
+rCn4c  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 667 notes, 61 bars,
+pass 2: 375 notes, 61 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 885.92 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2288.29 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 902.68 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 8
+PSE: rewrite passing notes
+PSE: diff after rewriting: 10
+
+ rRfYc 
+
+rRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 579 notes, 49 bars,
+pass 2: 324 notes, 49 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1035.14 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1811.49 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1448.97 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 14
+PSE: rewrite passing notes
+PSE: diff after rewriting: 15
+
+ t66yc 
+
+t66yc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 517 notes, 50 bars,
+pass 2: 296 notes, 50 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 512.78 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 1857.85 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 350.54 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: d minor ( -1 ) index: 13
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 13 d minor
+PSE: diff before rewriting: 8
+PSE: rewrite passing notes
+PSE: diff after rewriting: 8
+
+ tCfYc 
+
+tCfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1201 notes, 129 bars,
+pass 2: 758 notes, 129 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1534.58 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 4831.62 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1031.58 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 32
+PSE: rewrite passing notes
+PSE: diff after rewriting: 32
+
+ tRfYc 
+
+tRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 685 notes, 64 bars,
+pass 2: 437 notes, 64 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 765.56 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2378.27 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 572.62 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: F major ( -1 ) index: 11
+global ton: OK: ( F major ), has the same signature as F major
+PSE: renaming with the spelling computed 11 F major
+PSE: diff before rewriting: 9
+PSE: rewrite passing notes
+PSE: diff after rewriting: 9
+
+ vRfYc 
+
+vRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 674 notes, 65 bars,
+pass 2: 398 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 730.22 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2414.64 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 578.27 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: c minor ( -3 ) index: 57
+global ton: NO: ( c minor was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 57 c minor
+PSE: diff before rewriting: 5
+PSE: rewrite passing notes
+PSE: diff after rewriting: 6
+
+ wkTyc 
+
+wkTyc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 736 notes, 66 bars,
+pass 2: 475 notes, 66 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1219.40 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2451.86 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 942.65 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: C major ( 0 ) index: 0
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats>
+PSE: renaming with the spelling computed 0 C major
+PSE: diff before rewriting: 13
+PSE: rewrite passing notes
+PSE: diff after rewriting: 13
+
+ wv3wc 
+
+wv3wc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1102 notes, 98 bars,
+pass 2: 647 notes, 98 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1491.52 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3677.66 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1200.28 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: A- major ( -4 ) index: 77
+global ton: NO: ( A- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 77 A- major
+PSE: diff before rewriting: 26
+PSE: rewrite passing notes
+PSE: diff after rewriting: 29
+
+ xRfYc 
+
+xRfYc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 732 notes, 65 bars,
+pass 2: 421 notes, 65 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 881.45 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 2439.35 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 749.09 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 5
+PSE: rewrite passing notes
+PSE: diff after rewriting: 5
+
+ yp3wc 
+
+yp3wc  PSE: spelling with PSE165_AtbME_Gridx_AdplexToE
+pass 1: 1198 notes, 97 bars,
+pass 2: 682 notes, 97 bars,
+PSE: comp. Table 1 cost1: CostType.CTYPE_ACCIDtb tonal1: False det1: False 1817.07 ms
+PSE: comp. Grid with algo: GridAlgo.Grid_Exhaustive 3632.45 ms
+PSE: comp. Table 2 cost2: CostType.CTYPE_ADplex tonal2: True det2: False 1286.34 ms
+PSE: 1 global(s) in final selection:
+PSE: global selected: B- major ( -2 ) index: 33
+global ton: NO: ( B- major was <music21.key.KeySignature of no sharps or flats> ),
+PSE: renaming with the spelling computed 33 B- major
+PSE: diff before rewriting: 32
+PSE: rewrite passing notes
+PSE: diff after rewriting: 32
+parts spelled   : 50
+notes spelled   : 22698
+correct spelling: 96.85 %
+correct KS estim: 16.00 %
+

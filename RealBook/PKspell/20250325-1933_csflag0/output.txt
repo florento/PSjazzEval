@@ -1,0 +1,810 @@
+
+
+ evaluation of Afro blue
+estimated KS: -4 ground truth: -4
+diff: 0 on 75 notes 100.00 %
+
+ evaluation of Afternoon in Paris
+estimated KS: 0 ground truth: 0
+diff: 0 on 110 notes 100.00 %
+
+ evaluation of Airegin
+estimated KS: -4 ground truth: -4
+diff: 1 on 70 notes 98.57 %
+
+ evaluation of Alice in wonderland
+estimated KS: 0 ground truth: 0
+diff: 0 on 85 notes 100.00 %
+
+ evaluation of All blues
+estimated KS: 1 ground truth: 0
+diff: 1 on 37 notes 97.30 %
+
+ evaluation of All in love is fair
+estimated KS: -1 ground truth: -1
+diff: 0 on 106 notes 100.00 %
+
+ evaluation of All my tomorrows
+estimated KS: 1 ground truth: 1
+diff: 5 on 130 notes 96.15 %
+
+ evaluation of All of me
+estimated KS: 0 ground truth: 0
+diff: 0 on 85 notes 100.00 %
+
+ evaluation of All of you
+estimated KS: -3 ground truth: -3
+diff: 2 on 79 notes 97.47 %
+
+ evaluation of All the things you are
+estimated KS: -4 ground truth: -4
+diff: 2 on 90 notes 97.78 %
+
+ evaluation of Alone together
+estimated KS: -1 ground truth: -1
+diff: 1 on 86 notes 98.84 %
+
+ evaluation of Ana Maria
+estimated KS: -2 ground truth: -3
+diff: 6 on 108 notes 94.44 %
+
+ evaluation of Angel eyes
+estimated KS: -2 ground truth: -3
+diff: 4 on 120 notes 96.67 %
+
+ evaluation of Anthropology
+estimated KS: -2 ground truth: -2
+diff: 2 on 159 notes 98.74 %
+
+ evaluation of April in Paris
+estimated KS: 0 ground truth: 0
+diff: 4 on 97 notes 95.88 %
+
+ evaluation of April in Paris-mod
+estimated KS: 0 ground truth: 0
+diff: 3 on 97 notes 96.91 %
+
+ evaluation of Autumn in New York
+estimated KS: -1 ground truth: -1
+diff: 2 on 115 notes 98.26 %
+
+ evaluation of Autumn leaves
+estimated KS: -2 ground truth: -2
+diff: 0 on 68 notes 100.00 %
+
+ evaluation of Avalon
+estimated KS: -2 ground truth: -2
+diff: 0 on 59 notes 100.00 %
+
+ evaluation of Beautiful love
+estimated KS: -1 ground truth: -1
+diff: 0 on 52 notes 100.00 %
+
+ evaluation of Bessie's blues
+estimated KS: -3 ground truth: -3
+diff: 0 on 92 notes 100.00 %
+
+ evaluation of Bewitched
+estimated KS: 1 ground truth: 0
+diff: 0 on 88 notes 100.00 %
+
+ evaluation of Birth of the blues
+estimated KS: 0 ground truth: 0
+diff: 3 on 95 notes 96.84 %
+
+ evaluation of Black Orpheus
+estimated KS: 0 ground truth: 0
+diff: 0 on 127 notes 100.00 %
+
+ evaluation of Black and tan fantasy
+estimated KS: -5 ground truth: -5
+diff: 1 on 87 notes 98.85 %
+
+ evaluation of Black narcissus
+estimated KS: -6 ground truth: 0
+diff: 23 on 47 notes 51.06 %
+
+ evaluation of Black nile
+estimated KS: -1 ground truth: -1
+diff: 2 on 147 notes 98.64 %
+
+ evaluation of Blessed relief
+estimated KS: -1 ground truth: -1
+diff: 0 on 106 notes 100.00 %
+
+ evaluation of Blue Monk
+estimated KS: -1 ground truth: -2
+diff: 1 on 65 notes 98.46 %
+
+ evaluation of Blue bossa
+estimated KS: -3 ground truth: -3
+diff: 0 on 48 notes 100.00 %
+
+ evaluation of Blue in green
+estimated KS: -1 ground truth: 0
+diff: 0 on 29 notes 100.00 %
+
+ evaluation of Blue moon
+estimated KS: -3 ground truth: -3
+diff: 3 on 145 notes 97.93 %
+
+ evaluation of Blue room
+estimated KS: -1 ground truth: -1
+diff: 0 on 86 notes 100.00 %
+
+ evaluation of Blue trane
+estimated KS: -2 ground truth: -3
+diff: 0 on 48 notes 100.00 %
+
+ evaluation of Bluesette
+estimated KS: -4 ground truth: -2
+diff: 1 on 46 notes 97.83 %
+
+ evaluation of Body and soul
+estimated KS: -5 ground truth: -5
+diff: 8 on 102 notes 92.16 %
+
+ evaluation of Bohemia after dark
+estimated KS: -2 ground truth: -2
+diff: 4 on 125 notes 96.80 %
+
+ evaluation of Boplicity
+estimated KS: -1 ground truth: -1
+diff: 4 on 146 notes 97.26 %
+
+ evaluation of Bud's blues
+estimated KS: -5 ground truth: -2
+diff: 0 on 33 notes 100.00 %
+
+ evaluation of But beautiful
+estimated KS: 1 ground truth: 1
+diff: 2 on 77 notes 97.40 %
+
+ evaluation of Bye bye blackbird
+estimated KS: -2 ground truth: 0
+diff: 0 on 76 notes 100.00 %
+
+ evaluation of Caravan
+estimated KS: -4 ground truth: -4
+diff: 0 on 41 notes 100.00 %
+
+ evaluation of Ceora
+estimated KS: -5 ground truth: -4
+diff: 21 on 145 notes 85.52 %
+
+ evaluation of Cherokee
+estimated KS: -2 ground truth: -2
+diff: 4 on 98 notes 95.92 %
+
+ evaluation of Chicken feathers
+estimated KS: -2 ground truth: -2
+diff: 3 on 73 notes 95.89 %
+
+ evaluation of Come sunday
+estimated KS: -2 ground truth: -2
+diff: 0 on 74 notes 100.00 %
+
+ evaluation of Con Alma
+estimated KS: 6 ground truth: 0
+diff: 17 on 45 notes 62.22 %
+
+ evaluation of Confirmation
+estimated KS: -1 ground truth: -1
+diff: 12 on 196 notes 93.88 %
+
+ evaluation of Corcovado
+estimated KS: 0 ground truth: 0
+diff: 0 on 180 notes 100.00 %
+
+ evaluation of Cottontail
+estimated KS: -3 ground truth: -4
+diff: 4 on 74 notes 94.59 %
+
+ evaluation of Cry me a river
+estimated KS: -2 ground truth: -3
+diff: 1 on 126 notes 99.21 %
+
+ evaluation of Crystal silence
+estimated KS: 0 ground truth: 0
+diff: 1 on 112 notes 99.11 %
+
+ evaluation of Daahood
+estimated KS: -5 ground truth: -3
+diff: 1 on 127 notes 99.21 %
+
+ evaluation of Dancing on the ceiling
+estimated KS: -1 ground truth: -1
+diff: 0 on 64 notes 100.00 %
+
+ evaluation of Darn that dream
+estimated KS: 1 ground truth: 1
+diff: 6 on 98 notes 93.88 %
+
+ evaluation of Day of wine and roses
+estimated KS: -1 ground truth: -1
+diff: 4 on 86 notes 95.35 %
+
+ evaluation of Dearly beloved
+estimated KS: 0 ground truth: 0
+diff: 0 on 53 notes 100.00 %
+
+ evaluation of Deep purple
+estimated KS: -2 ground truth: -1
+diff: 5 on 96 notes 94.79 %
+
+ evaluation of Deluge
+estimated KS: 6 ground truth: -6
+diff: 39 on 76 notes 48.68 %
+
+ evaluation of Desafinado
+estimated KS: -1 ground truth: -1
+diff: 9 on 222 notes 95.95 %
+
+ evaluation of Dindi
+estimated KS: -3 ground truth: -3
+diff: 1 on 130 notes 99.23 %
+
+ evaluation of Django
+estimated KS: -4 ground truth: -4
+diff: 0 on 54 notes 100.00 %
+
+ evaluation of Do you know what it means
+estimated KS: 1 ground truth: 0
+diff: 6 on 144 notes 95.83 %
+
+ evaluation of Dolphin dance
+estimated KS: -2 ground truth: 0
+diff: 6 on 101 notes 94.06 %
+
+ evaluation of Don't blame me
+estimated KS: -1 ground truth: 0
+diff: 3 on 73 notes 95.89 %
+
+ evaluation of Don't get around much anymore
+estimated KS: 0 ground truth: 0
+diff: 1 on 86 notes 98.84 %
+
+ evaluation of Early autumn
+estimated KS: -2 ground truth: -2
+diff: 5 on 161 notes 96.89 %
+
+ evaluation of Early autumn-C
+estimated KS: 0 ground truth: 0
+diff: 3 on 121 notes 97.52 %
+
+ evaluation of East of the sun
+estimated KS: 1 ground truth: 1
+diff: 3 on 110 notes 97.27 %
+
+ evaluation of Easy living
+estimated KS: -1 ground truth: -1
+diff: 0 on 88 notes 100.00 %
+
+ evaluation of Easy to love
+estimated KS: 0 ground truth: 0
+diff: 5 on 59 notes 91.53 %
+
+ evaluation of Eclypso
+estimated KS: -3 ground truth: -3
+diff: 0 on 102 notes 100.00 %
+
+ evaluation of Eighty one
+estimated KS: -5 ground truth: 0
+diff: 0 on 23 notes 100.00 %
+
+ evaluation of Eighty one-F
+estimated KS: -5 ground truth: -1
+diff: 0 on 11 notes 100.00 %
+
+ evaluation of El gaucho
+estimated KS: -1 ground truth: 0
+diff: 0 on 59 notes 100.00 %
+
+ evaluation of Emily
+estimated KS: 0 ground truth: 0
+diff: 1 on 102 notes 99.02 %
+
+ evaluation of Emily-G
+estimated KS: 1 ground truth: 1
+diff: 0 on 102 notes 100.00 %
+
+ evaluation of Epistrophy
+estimated KS: 5 ground truth: 1
+diff: 13 on 154 notes 91.56 %
+
+ evaluation of Equinox
+2 parts spelling only the first
+estimated KS: -3 ground truth: 0
+diff: 0 on 62 notes 100.00 %
+
+ evaluation of Equinox-C#
+estimated KS: -3 ground truth: 0
+diff: 0 on 62 notes 100.00 %
+
+ evaluation of Everythong happens to me
+estimated KS: -1 ground truth: -2
+diff: 6 on 158 notes 96.20 %
+
+ evaluation of Eye of the hurricane
+estimated KS: -1 ground truth: 0
+diff: 2 on 89 notes 97.75 %
+
+ evaluation of Falling grace
+estimated KS: -2 ground truth: 0
+diff: 0 on 95 notes 100.00 %
+
+ evaluation of Favela
+estimated KS: -2 ground truth: -2
+diff: 0 on 153 notes 100.00 %
+
+ evaluation of Fee-fi-fo-fum
+estimated KS: -2 ground truth: 0
+diff: 0 on 85 notes 100.00 %
+
+ evaluation of Feel like making love
+estimated KS: -2 ground truth: -3
+diff: 0 on 75 notes 100.00 %
+
+ evaluation of Feels so good
+estimated KS: -1 ground truth: -1
+diff: 0 on 43 notes 100.00 %
+
+ evaluation of Five brothers
+estimated KS: 0 ground truth: 0
+diff: 6 on 119 notes 94.96 %
+
+ evaluation of Five hundred miles high
+estimated KS: 0 ground truth: 0
+diff: 0 on 57 notes 100.00 %
+
+ evaluation of Five spot after dark
+estimated KS: -5 ground truth: -4
+diff: 0 on 50 notes 100.00 %
+
+ evaluation of Fools rush in
+estimated KS: 0 ground truth: 0
+diff: 1 on 101 notes 99.01 %
+
+ evaluation of Footprints
+estimated KS: -2 ground truth: 0
+diff: 3 on 132 notes 97.73 %
+
+ evaluation of Forest flower
+estimated KS: 3 ground truth: 0
+diff: 7 on 94 notes 92.55 %
+
+ evaluation of Four
+estimated KS: -2 ground truth: -3
+diff: 5 on 193 notes 97.41 %
+
+ evaluation of Four brothers
+estimated KS: -4 ground truth: -4
+diff: 13 on 155 notes 91.61 %
+
+ evaluation of Four on six
+estimated KS: -2 ground truth: 0
+diff: 1 on 108 notes 99.07 %
+
+ Freddie the freeloader SKIP
+
+
+ evaluation of Freedom jazz dance
+estimated KS: -5 ground truth: 0
+diff: 3 on 33 notes 90.91 %
+
+ evaluation of Freight trane
+estimated KS: -7 ground truth: -4
+diff: 4 on 70 notes 94.29 %
+
+ evaluation of Gentle rain
+estimated KS: 0 ground truth: 0
+diff: 1 on 60 notes 98.33 %
+
+ evaluation of Georgia
+estimated KS: -1 ground truth: -1
+diff: 0 on 92 notes 100.00 %
+
+ evaluation of Giant steps
+estimated KS: 2 ground truth: 0
+diff: 4 on 34 notes 88.24 %
+
+ evaluation of Girl from Ipanema
+estimated KS: 0 ground truth: -1
+diff: 3 on 131 notes 97.71 %
+
+ evaluation of Girl talk
+estimated KS: -3 ground truth: -3
+diff: 11 on 79 notes 86.08 %
+
+ evaluation of Golden lady
+estimated KS: -1 ground truth: -3
+diff: 27 on 195 notes 86.15 %
+
+ evaluation of Gone with the wind
+estimated KS: -2 ground truth: -3
+diff: 0 on 74 notes 100.00 %
+
+ evaluation of Good bait
+estimated KS: -5 ground truth: -2
+diff: 6 on 144 notes 95.83 %
+
+ evaluation of Good bye pork pie hat
+estimated KS: -4 ground truth: -4
+diff: 1 on 79 notes 98.73 %
+
+ evaluation of Got a match ?
+estimated KS: -1 ground truth: -1
+diff: 1 on 105 notes 99.05 %
+
+ evaluation of Green dolphin street
+estimated KS: 1 ground truth: 0
+diff: 4 on 58 notes 93.10 %
+
+ evaluation of Groove merchant
+estimated KS: -2 ground truth: -2
+diff: 6 on 125 notes 95.20 %
+
+ evaluation of Grooving_high
+estimated KS: -3 ground truth: -3
+diff: 11 on 139 notes 92.09 %
+
+ evaluation of Harlem nocturne
+estimated KS: -2 ground truth: -2
+diff: 3 on 190 notes 98.42 %
+
+ evaluation of Have you met Miss Jones
+estimated KS: 0 ground truth: -1
+diff: 10 on 79 notes 87.34 %
+
+ evaluation of Havona
+estimated KS: 4 ground truth: 0
+diff: 4 on 206 notes 98.06 %
+
+ evaluation of Head and shoulders
+estimated KS: -5 ground truth: -2
+diff: 5 on 92 notes 94.57 %
+
+ evaluation of Hello young lovers
+estimated KS: -1 ground truth: -1
+diff: 0 on 142 notes 100.00 %
+
+ evaluation of Here's that rainy day
+estimated KS: -1 ground truth: -1
+diff: 1 on 63 notes 98.41 %
+
+ evaluation of Hot house
+estimated KS: -3 ground truth: -2
+diff: 19 on 200 notes 90.50 %
+
+ evaluation of How about you
+estimated KS: 0 ground truth: 0
+diff: 0 on 114 notes 100.00 %
+
+ evaluation of How deep is the ocean
+estimated KS: -3 ground truth: -3
+diff: 0 on 92 notes 100.00 %
+
+ evaluation of How high the moon
+estimated KS: 1 ground truth: 1
+diff: 0 on 101 notes 100.00 %
+
+ evaluation of How insensitive
+estimated KS: -1 ground truth: 0
+diff: 1 on 101 notes 99.01 %
+
+ evaluation of How long has this been going on
+estimated KS: 0 ground truth: 1
+diff: 0 on 104 notes 100.00 %
+
+ evaluation of How my heart sings
+estimated KS: 0 ground truth: 0
+diff: 0 on 89 notes 100.00 %
+
+ evaluation of Humpty dumpty
+estimated KS: -5 ground truth: 0
+diff: 5 on 73 notes 93.15 %
+
+ evaluation of I can't get started
+estimated KS: 0 ground truth: 0
+diff: 3 on 108 notes 97.22 %
+
+ evaluation of I could write a book
+estimated KS: 0 ground truth: 0
+diff: 0 on 61 notes 100.00 %
+
+ evaluation of I cover the waterfront
+estimated KS: -4 ground truth: -4
+diff: 2 on 92 notes 97.83 %
+
+ evaluation of I didn't know what time it was
+estimated KS: 1 ground truth: 1
+diff: 1 on 106 notes 99.06 %
+
+ evaluation of I fall in love too easily
+estimated KS: -3 ground truth: -3
+diff: 0 on 63 notes 100.00 %
+
+ evaluation of I got it bad
+estimated KS: 1 ground truth: 1
+diff: 0 on 67 notes 100.00 %
+
+ evaluation of I hear a rapsody
+estimated KS: -3 ground truth: -3
+diff: 0 on 83 notes 100.00 %
+
+ evaluation of I left my heart in San Francisco
+estimated KS: -2 ground truth: -2
+diff: 0 on 85 notes 100.00 %
+
+ evaluation of I loves you Porgy
+estimated KS: -1 ground truth: -1
+diff: 0 on 121 notes 100.00 %
+
+ evaluation of I remember you
+estimated KS: -1 ground truth: -1
+diff: 3 on 73 notes 95.89 %
+
+ evaluation of I should care
+estimated KS: 0 ground truth: 0
+diff: 0 on 92 notes 100.00 %
+
+ evaluation of I thought about you
+estimated KS: -1 ground truth: -1
+diff: 0 on 88 notes 100.00 %
+
+ evaluation of I will wait for you
+estimated KS: -1 ground truth: 0
+diff: 0 on 46 notes 100.00 %
+
+ evaluation of I wish you love
+estimated KS: -6 ground truth: -3
+diff: 2 on 169 notes 98.82 %
+
+ evaluation of I'll be seeing you
+estimated KS: -3 ground truth: -3
+diff: 0 on 116 notes 100.00 %
+
+ evaluation of I'll close my eyes
+estimated KS: -1 ground truth: -1
+diff: 0 on 105 notes 100.00 %
+
+ evaluation of I'll remember april
+estimated KS: 1 ground truth: 1
+diff: 0 on 137 notes 100.00 %
+
+ evaluation of I'm a fool to want you
+estimated KS: -4 ground truth: -4
+diff: 0 on 120 notes 100.00 %
+
+ evaluation of I'm getting sentimental over you
+estimated KS: 0 ground truth: -1
+diff: 0 on 88 notes 100.00 %
+
+ evaluation of I'm glad there is you
+estimated KS: -1 ground truth: -1
+diff: 6 on 128 notes 95.31 %
+
+ evaluation of I'm old fashioned
+estimated KS: -1 ground truth: -1
+diff: 0 on 87 notes 100.00 %
+
+ evaluation of I've found a new baby
+estimated KS: -1 ground truth: 0
+diff: 2 on 85 notes 97.65 %
+
+ evaluation of I've got the world on a string
+estimated KS: -1 ground truth: -1
+diff: 0 on 104 notes 100.00 %
+
+ evaluation of I've grown accustomed to her face
+estimated KS: -3 ground truth: -3
+diff: 0 on 111 notes 100.00 %
+
+ evaluation of I've never been in love before
+estimated KS: -2 ground truth: -2
+diff: 0 on 86 notes 100.00 %
+
+ evaluation of If I loved you
+estimated KS: -2 ground truth: -2
+diff: 0 on 74 notes 100.00 %
+
+ evaluation of If I should lose you
+estimated KS: -2 ground truth: -2
+diff: 0 on 102 notes 100.00 %
+
+ evaluation of If I where a bell
+estimated KS: -1 ground truth: -1
+diff: 0 on 148 notes 100.00 %
+
+ evaluation of If you never come to me
+estimated KS: -3 ground truth: -3
+diff: 1 on 54 notes 98.15 %
+
+ evaluation of Imagination
+estimated KS: 1 ground truth: 1
+diff: 1 on 110 notes 99.09 %
+
+ evaluation of Impressions
+estimated KS: -1 ground truth: 0
+diff: 7 on 66 notes 89.39 %
+
+ evaluation of In a mellow tone
+estimated KS: -4 ground truth: -4
+diff: 3 on 96 notes 96.88 %
+
+ evaluation of In a sentimental mood
+estimated KS: -1 ground truth: -1
+diff: 3 on 116 notes 97.41 %
+
+ evaluation of In your own sweet way
+estimated KS: -6 ground truth: -2
+diff: 12 on 133 notes 90.98 %
+
+ evaluation of Indian summer
+estimated KS: 1 ground truth: 1
+diff: 0 on 121 notes 100.00 %
+
+ evaluation of Inner urge
+estimated KS: 2 ground truth: 0
+diff: 9 on 138 notes 93.48 %
+
+ evaluation of Invitation
+estimated KS: -1 ground truth: -3
+diff: 17 on 112 notes 84.82 %
+
+ evaluation of Isfahan
+estimated KS: -5 ground truth: -5
+diff: 2 on 112 notes 98.21 %
+
+ evaluation of Isn't it romantic
+estimated KS: -3 ground truth: -3
+diff: 0 on 91 notes 100.00 %
+
+ evaluation of It could happen to you
+estimated KS: -3 ground truth: -3
+diff: 0 on 70 notes 100.00 %
+
+ evaluation of It don't mean a thing
+estimated KS: -2 ground truth: -2
+diff: 0 on 85 notes 100.00 %
+
+ evaluation of It had to be you
+estimated KS: 1 ground truth: 1
+diff: 0 on 141 notes 100.00 %
+
+ evaluation of It might as well be spring
+estimated KS: -3 ground truth: 0
+diff: 1 on 152 notes 99.34 %
+
+ evaluation of It never entered my mind
+estimated KS: -1 ground truth: -1
+diff: 0 on 138 notes 100.00 %
+
+ evaluation of It's only a paper moon
+estimated KS: 0 ground truth: 0
+diff: 3 on 100 notes 97.00 %
+
+ evaluation of Jersey bounce
+estimated KS: -1 ground truth: -1
+diff: 2 on 134 notes 98.51 %
+
+ evaluation of Jitterberg waltz
+estimated KS: -5 ground truth: -5
+diff: 12 on 138 notes 91.30 %
+
+ evaluation of Jordu
+estimated KS: -3 ground truth: -3
+diff: 3 on 136 notes 97.79 %
+
+ evaluation of Joy spring
+estimated KS: -1 ground truth: -1
+diff: 15 on 213 notes 92.96 %
+
+ evaluation of Just a sitting and a rocking
+estimated KS: 0 ground truth: -1
+diff: 0 on 137 notes 100.00 %
+
+ evaluation of Just friends
+estimated KS: 1 ground truth: 1
+diff: 4 on 80 notes 95.00 %
+
+ evaluation of Just squeeze me
+estimated KS: -1 ground truth: -1
+diff: 0 on 102 notes 100.00 %
+
+ evaluation of Just the way you are
+estimated KS: 2 ground truth: 2
+diff: 1 on 158 notes 99.37 %
+
+ evaluation of Just you, just me
+estimated KS: -3 ground truth: -3
+diff: 2 on 104 notes 98.08 %
+
+ evaluation of Kary's Trance
+estimated KS: 0 ground truth: 0
+diff: 14 on 199 notes 92.96 %
+
+ evaluation of Kentucky oysters
+estimated KS: -3 ground truth: -1
+diff: 0 on 82 notes 100.00 %
+
+ evaluation of Kicker (the)
+estimated KS: -5 ground truth: -2
+diff: 0 on 56 notes 100.00 %
+
+ evaluation of Kids are pretty people
+estimated KS: -1 ground truth: -1
+diff: 3 on 138 notes 97.83 %
+
+ evaluation of Killer Joe
+estimated KS: -2 ground truth: 0
+diff: 0 on 47 notes 100.00 %
+
+ evaluation of Ladies in Mercedes
+estimated KS: 3 ground truth: 0
+diff: 1 on 127 notes 99.21 %
+
+ evaluation of Lady is a tramp
+estimated KS: 0 ground truth: 0
+diff: 0 on 82 notes 100.00 %
+
+ evaluation of Laura
+estimated KS: 0 ground truth: 0
+diff: 7 on 117 notes 94.02 %
+
+ evaluation of Lazy afternoon
+estimated KS: 1 ground truth: 0
+diff: 0 on 157 notes 100.00 %
+
+ evaluation of Leila
+estimated KS: -1 ground truth: -1
+diff: 3 on 139 notes 97.84 %
+
+ evaluation of Lester leaps in
+estimated KS: -2 ground truth: -2
+diff: 0 on 78 notes 100.00 %
+
+ evaluation of Li'l darlin'
+estimated KS: -1 ground truth: -1
+diff: 2 on 97 notes 97.94 %
+
+ evaluation of Line for lyons
+estimated KS: -2 ground truth: 1
+diff: 3 on 170 notes 98.24 %
+
+ evaluation of Little girl blue
+estimated KS: -1 ground truth: -1
+diff: 0 on 126 notes 100.00 %
+
+ evaluation of Little sunflower
+estimated KS: 0 ground truth: -1
+diff: 1 on 89 notes 98.88 %
+
+ evaluation of Little waltz
+estimated KS: -4 ground truth: -4
+diff: 0 on 61 notes 100.00 %
+
+ evaluation of Lone Jack
+estimated KS: -5 ground truth: -5
+diff: 68 on 129 notes 47.29 %
+
+ evaluation of Lover man
+estimated KS: -1 ground truth: -1
+diff: 0 on 120 notes 100.00 %
+
+ evaluation of Lullaby of the leaves
+estimated KS: -3 ground truth: -3
+diff: 2 on 109 notes 98.17 %
+
+ evaluation of Lulu's back in town
+estimated KS: -3 ground truth: -3
+diff: 0 on 100 notes 100.00 %
+
+ evaluation of Misty
+estimated KS: -3 ground truth: -3
+diff: 1 on 126 notes 99.21 %
+
+ evaluation of The fields we know
+estimated KS: 5 ground truth: 0
+diff: 16 on 64 notes 75.00 %
+
